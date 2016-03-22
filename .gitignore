@@ -6,3 +6,6 @@
 /out/
 /*.sh
 /fortest/
+/nbproject/private/
+/build/
+/dist/
